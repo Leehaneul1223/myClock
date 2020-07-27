@@ -14,3 +14,4 @@ setInterval(() => {
 	const timeText3 = new Date().toLocaleString("en-GB");
 	document.querySelector("#currentTimeGB").textContent = timeText3;
 }, 1000)
+
